@@ -26,18 +26,9 @@ Give the [Responsive Calculator](https://rohitbharti279.github.io/Calculator/) a
 
 The Responsive Calculator is designed to provide an optimal user experience across various devices. It adapts seamlessly to different screen sizes, ensuring consistent functionality.
 
-## Contributing
-
-If you'd like to contribute to the Responsive Calculator, please read our [Contribution Guidelines](CONTRIBUTING.md) for details on the process.
-
 ## Support
 
 For any questions, issues, or feedback, please [open an issue](https://github.com/rohitbharti279/Calculator/issues).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Thank you for using the Responsive Calculator! We hope it simplifies your arithmetic tasks, no matter the device you're using. Happy calculating! 🧮🚀
