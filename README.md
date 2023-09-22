@@ -2,7 +2,6 @@
 
 Welcome to the Responsive Calculator, a powerful arithmetic tool designed to adapt seamlessly to any device. Whether you're on a desktop, tablet, or mobile phone, our calculator provides a consistent and user-friendly experience.
 
-![Calculator Preview](screenshot.png)
 
 ## Features
 
